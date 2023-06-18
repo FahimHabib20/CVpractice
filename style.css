@@ -65,10 +65,10 @@ a {
 .main2 {
   position: absolute;
   left: 350px;
-  width: 100%;
+  width: 70%;
   margin-top: 40px;
 }
-.about {
+/* .about {
   width: 70%;
 }
 .Education {
@@ -79,4 +79,4 @@ a {
 }
 .skill {
   width: 70%;
-}
+}*/
